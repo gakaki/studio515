@@ -1,0 +1,5 @@
+.DS_Store
+studio515/node_modules
+node_modules
+studio515/yarn.lock
+yarn.lock
